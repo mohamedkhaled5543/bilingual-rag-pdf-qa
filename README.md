@@ -57,5 +57,3 @@ Needs a GPU. See `run_colab.md` for the Colab/Kaggle setup.
 - Multi-PDF support
 - API model for cheap deployment
 
-## Author
-Mohamed (ZOREN). Building AI automation systems.
